@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Module for from_json_string method.
