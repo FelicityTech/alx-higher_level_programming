@@ -49,14 +49,14 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 
 <details><summary>Requirements</summary>
 <p>
-- Allowed editors: `vi`, `vim`, `emacs`
-- All your files will be interpreted on Ubuntu 20.04 LTS using `node` (version 14.x)
-- All your files should end with a new line
-- The first line of all your files should be exactly `#!/usr/bin/node`
-- A `README.md` file, at the root of the folder of the project, is mandatory
-- Your code should be `semistandard` compliant (version 16.x.x).[ Rules of Standard ](https://alx-intranet.hbtn.io/rltoken/1T1yg1vOAChRN20Yyz8crw) + [ semicolons on top](https://alx-intranet.hbtn.io/rltoken/35q5Pc6A6KWPyd3kGeRQFg). Also as reference: [AirBNB style](https://github.com/airbnb/javascript)
-- All your files must be executable
-- The length of your files will be tested using `wc`
+* Allowed editors: `vi`, `vim`, `emacs`
+* All your files will be interpreted on Ubuntu 20.04 LTS using `node` (version 14.x)
+* All your files should end with a new line
+* The first line of all your files should be exactly `#!/usr/bin/node`
+* A `README.md` file, at the root of the folder of the project, is mandatory
+* Your code should be `semistandard` compliant (version 16.x.x). [Rules of Standard ](https://alx-intranet.hbtn.io/rltoken/1T1yg1vOAChRN20Yyz8crw) + [semicolons on top](https://alx-intranet.hbtn.io/rltoken/35q5Pc6A6KWPyd3kGeRQFg). Also as reference: [AirBNB style](https://github.com/airbnb/javascript)
+* All your files must be executable
+* The length of your files will be tested using `wc`
 </p>
 </details>
 
@@ -65,8 +65,8 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 - `$ sudo apt-get install -y nodejs`
 
 # Install Semi-standard
-- [Documentation] (https://github.com/standard/semistandard)
-`$ sudo npm install semistandard --global`
+- [Documentation](https://github.com/standard/semistandard)
+- `$ sudo npm install semistandard --global`
 
 
 # Tasks
