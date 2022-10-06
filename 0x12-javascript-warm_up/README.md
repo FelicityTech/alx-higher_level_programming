@@ -28,35 +28,58 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 
 <details><summary>Learning Objectives</summary>
 <p>
-- Why JavaScript programming is amazing
-- How to run a JavaScript script
-- How to create variables and constants
-- What are differences between `var`, `const` and `let`
-- What are all the data types available in JavaScript
-- How to use the `if`, `if ... else` statements
-- How to use comments
-- How to affect values to variables
-- How to use `while` and `for` loops
-- How to use `break` and `continue` statements
-- What is a function and how do you use functions
-- What does a function that does not use any `return` statement return
-- Scope of variables
-- What are the arithmetic operators and how to use them
-- How to manipulate dictionary
-- How to import a file
+* Why JavaScript programming is amazing
+
+* How to run a JavaScript script* How to create variables and constants
+
+* What are differences between `var`, `const` and `let`
+
+* What are all the data types available in JavaScript
+
+* How to use the `if`, `if ... else` statements
+
+*  How to use comments
+
+* How to affect values to variables
+
+* How to use `while` and `for` loops
+
+* How to use `break` and `continue` statements
+
+* What is a function and how do you use functions
+
+* What does a function that does not use any `return` statement return
+
+* Scope of variables
+
+*  What are the arithmetic operators and how to use them
+How to manipulate dictionary
+
+* vascript-warm_up0x12-javascript-warm_up How to import a file
+
 </p>
+
 </details>
 
 <details><summary>Requirements</summary>
 <p>
+
+
 * Allowed editors: `vi`, `vim`, `emacs`
+
 * All your files will be interpreted on Ubuntu 20.04 LTS using `node` (version 14.x)
+
 * All your files should end with a new line
-* The first line of all your files should be exactly `#!/usr/bin/node`
+
+* The first line of all your files should be exactly  `#!/usr/bin/node`
+
 * A `README.md` file, at the root of the folder of the project, is mandatory
-* Your code should be `semistandard` compliant (version 16.x.x). [Rules of Standard ](https://alx-intranet.hbtn.io/rltoken/1T1yg1vOAChRN20Yyz8crw) + [semicolons on top](https://alx-intranet.hbtn.io/rltoken/35q5Pc6A6KWPyd3kGeRQFg). Also as reference: [AirBNB style](https://github.com/airbnb/javascript)
+ Your code should be  `semistandard` compliant (version 16.x.x). [Rules of Standard ](https://alx-intranet.hbtn.io/rltoken/1T1yg1vOAChRN20Yyz8crw) + [semicolons on top](https://alx-intranet.hbtn.io/rltoken/35q5Pc6A6KWPyd3kGeRQFg). Also as reference: [AirBNB style](https://github.com/airbnb/javascript)
+
 * All your files must be executable
-* The length of your files will be tested using `wc`
+
+* The length of your files will be tested using  `wc`
+
 </p>
 </details>
 
@@ -82,3 +105,40 @@ Write a script that prints “JavaScript is amazing”:
 </p>
 </details>
 
+<details><summary>1-multi_languages.js</summary>
+<p>
+
+Write a script that prints 3 lines:
+
+* The first line: “C is fun”
+
+* The second line: “Python is cool”
+
+* The third line: “JavaScript is amazing”
+
+* You must use  `console.log(...)`  to print all output
+
+* You are not allowed to use  `var`
+
+</p>
+</details>
+
+<details><summary>2-arguments.js</summary>
+<p>
+
+Write a script that prints a message depending of the number of arguments passed:
+
+* If no arguments are passed to the script, print “No argument”
+
+* If only one argument is passed to the script, print “Argument found”
+
+* Otherwise, print “Arguments found”
+
+* You must use `console.log(...)` to print all output
+
+* You are not allowed to use `var`
+
+Reference: [process.argv](https://nodejs.org/api/process.html#process_process_argv)
+
+</p>
+</details>
