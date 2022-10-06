@@ -23,10 +23,9 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 - [var, let and constant](https://www.youtube.com/watch?v=sjyJBL5fkp8)
 - [JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
 - [Modern Js](https://github.com/mbeaudru/modern-js-cheatsheet)
-
-
-
 </p>
+</details>
+
 <details><summary>Learning Objectives</summary>
 <p>
 - Why JavaScript programming is amazing
