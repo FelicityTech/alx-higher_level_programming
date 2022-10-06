@@ -68,3 +68,13 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 # Install Semi-standard
 - [Documentation] (https://github.com/standard/semistandard)
 `$ sudo npm install semistandard --global`
+
+
+##Tasks
+<details><summary>0-javascript/_is/_amazing.js<summary>
+Write a script that prints “JavaScript is amazing”:
+- You must create a constant variable called **myVar** with the value “JavaScript is amazing
+- You must use **console.log(...)** to print all output
+- You are not allowed to use **var**
+</details>
+
