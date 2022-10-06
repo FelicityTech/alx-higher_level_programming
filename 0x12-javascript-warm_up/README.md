@@ -70,7 +70,7 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 
 
 # Tasks
-<details><summary>0-javascript\_is\_amazing.js<summary>
+<details><summary>0-javascript_is_amazing.js</summary>
 <p>
 Write a script that prints “JavaScript is amazing”:
 - You must create a constant variable called **myVar** with the value “JavaScript is amazing
