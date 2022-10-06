@@ -10,27 +10,44 @@ JavaScript is used for many things. Here, you will use JavaScript for 2 reasons:
 
 <details><summary>Resources</summary>
 <p> 
-- [Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-- [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
-- [Data Types](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
-- [Operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
-- [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-- [Controlling Flow and error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
-- [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
-- [Objectives and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-- [Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-- [Module Patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
-- [var, let and constant](https://www.youtube.com/watch?v=sjyJBL5fkp8)
-- [JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
-- [Modern Js](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+* [Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+* [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+
+* [Data Types](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+
+* [Operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+
+* [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+
+* [Controlling Flow and error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+
+* [Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+
+* [Objectives and Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+
+* [Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+
+* [Module Patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+
+* [var, let and constant](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+
+* [JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+
+* [Modern Js](https://github.com/mbeaudru/modern-js-cheatsheet)
+
 </p>
 </details>
 
 <details><summary>Learning Objectives</summary>
 <p>
+
 * Why JavaScript programming is amazing
 
-* How to run a JavaScript script* How to create variables and constants
+* How to run a JavaScript script 
+
+* How to create variables and constants
 
 * What are differences between `var`, `const` and `let`
 
@@ -97,11 +114,11 @@ How to manipulate dictionary
 <p>
 Write a script that prints “JavaScript is amazing”:
 
-* You must create a constant variable called  **myVar**  with the value “JavaScript is amazing
+* You must create a constant variable called  `myVar`  with the value “JavaScript is amazing
 
-* You must use  **console.log(...)**  to print all output
+* You must use  `console.log(...)`  to print all output
 
-* You are not allowed to use  **var**
+* You are not allowed to use `var`
 </p>
 </details>
 
@@ -139,6 +156,34 @@ Write a script that prints a message depending of the number of arguments passed
 * You are not allowed to use `var`
 
 Reference: [process.argv](https://nodejs.org/api/process.html#process_process_argv)
+
+</p>
+</details>
+
+<details><summary>3-value_argument.js</summary>
+<p>
+
+Write a script that prints the first argument passed to it:
+
+* If no arguments are passed to the script, print “No argument”
+
+* You must use `console.log(...)` to print all output
+
+* You are not allowed to use `var`
+
+* You are not allowed to use `length`
+
+</p>
+</details>
+
+<details><summary>4-concat.js</summary>
+<p>
+
+Write a script that prints two arguments passed to it, in the following format: “ is ”
+
+* You must use `console.log(...)` to print all output
+
+* You are not allowed to use `var`
 
 </p>
 </details>
