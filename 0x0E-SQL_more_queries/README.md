@@ -110,7 +110,7 @@ Write a script that lists all cities contained in the database hbtn_0d_usa.
 ## 10-genre_id_by_show.sql
 
 Import the database dump from hbtn_0d_tvshows to your MySQL server:  
-[https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql](download)
+[download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)
 
 Write a script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.
 
@@ -121,7 +121,7 @@ Write a script that lists all shows contained in hbtn_0d_tvshows that have at le
 
 ## 11-genre_id_all_shows.sql
 
-Import the database dump of hbtn_0d_tvshows to your MySQL server:[https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql](download) (same as 10-genre_id_by_show.sql)
+Import the database dump of hbtn_0d_tvshows to your MySQL server:[download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql) (same as 10-genre_id_by_show.sql)
 
 Write a script that lists all shows contained in the database hbtn_0d_tvshows.
 
@@ -133,7 +133,7 @@ Write a script that lists all shows contained in the database hbtn_0d_tvshows.
 
 ## 12-no_genre.sql
 
-Import the database dump from hbtn_0d_tvshows to your MySQL server:[https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql](download) (same as 11-genre_id_all_shows.sql)
+Import the database dump from hbtn_0d_tvshows to your MySQL server:[download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql) (same as 11-genre_id_all_shows.sql)
 
 Write a script that lists all shows contained in hbtn_0d_tvshows without a genre linked.
 
@@ -144,7 +144,7 @@ Write a script that lists all shows contained in hbtn_0d_tvshows without a genre
 
 ## 13-count_shows_by_genre.sql
 
-Import the database dump from hbtn_0d_tvshows to your MySQL server:[https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql] (download) (same as 12-no_genre.sql)
+Import the database dump from hbtn_0d_tvshows to your MySQL server:[download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql) (same as 12-no_genre.sql)
 
 Write a script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each.
 
@@ -170,7 +170,7 @@ Write a script that uses the hbtn_0d_tvshows database to lists all genres of the
 
 ## 15-comedy_only.sql
 
-Import the database dump from hbtn_0d_tvshows to your MySQL server: [https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql](download) (same as 14-my_genres.sql)
+Import the database dump from hbtn_0d_tvshows to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql) (same as 14-my_genres.sql)
 
 Write a script that lists all Comedy shows in the database hbtn_0d_tvshows.
 
@@ -182,7 +182,7 @@ Write a script that lists all Comedy shows in the database hbtn_0d_tvshows.
 
 ## 16-shows_by_genre.sql
 
-Import the database dump from hbtn_0d_tvshows to your MySQL server: [https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql ](download) (same as 15-comedy_only.sql)
+Import the database dump from hbtn_0d_tvshows to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sq) (same as 15-comedy_only.sql)
 
 Write a script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows.
 
@@ -205,7 +205,7 @@ Write a script that uses the hbtn_0d_tvshows database to list all genres not lin
 5. The database name will be passed as an argument of the mysql command
 
 ## 101-not_a_comedy.sql
-
+https://www.guru99.com/er-modeling.html
 Import the database dump from hbtn_0d_tvshows to your MySQL server: [https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql ](download) (same as 100-not_my_genres.sql)
 
 Write a script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows.
