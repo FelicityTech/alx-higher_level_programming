@@ -1,5 +1,23 @@
 # SQL - More queries
-
+# Resources
+* Read or Watch:
+1. [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
+2. [How To Use MySQL GRANT Statement To Grant Privileges To a User](https://www.mysqltutorial.org/mysql-grant.aspx)
+3. [MySQL constraints](https://zetcode.com/mysql/constraints/)
+4. [SQL technique: subqueries](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php)
+5. [Basic query operation: the join](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/join.php)
+6. [SQL technique: multiple joins and the distinct keyword](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/multijoin.php)
+7. [SQL technique: join types](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/jointypes.php)
+8. [SQL technique: union and minus](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/setops.php)
+9. [MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US)
+10. [The Seven Types of SQL Joins](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
+11. [MySQL Tutorial](https://www.youtube.com/watch?v=yPu6qV5byu4)
+12. [SQL Style Guide](https://www.sqlstyle.guide/)
+13. [MySQL 8.0 SQL Statement Syntax](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
+Extra resources around relational database model design:
+14. [Design](https://www.guru99.com/database-design.html)
+15. [Normalization](https://www.guru99.com/database-normalization.html)
+16. [ER Modeling](https://www.guru99.com/er-modeling.html)
 ## 0-privileges.sql
 ** Write a script that lists all privileges of the MySQL users *user_0d_1 and *user_0d_2 on your server (in *localhost).
 
