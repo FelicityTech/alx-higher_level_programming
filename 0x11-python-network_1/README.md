@@ -85,4 +85,10 @@ solutions to python exercises
         The second argument will be the owner name
         You must use the packages requests and sys
         You are not allowed to import packages other than requests and sys
-        You don’t need to check arguments passed to the script (number or type)
+        You don’t need to check arguments passed to the script (number or type
+
+)
+# RESOurce
+[HOWTO Fetch Internet Resources Using urllib Package](https://docs.python.org/3/howto/urllib2.html)
+[Quickstart with Requests package](https://requests.readthedocs.io/en/latest/)
+[Requests package](https://pypi.org/project/requests/)
